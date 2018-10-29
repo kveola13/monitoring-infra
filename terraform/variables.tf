@@ -1,9 +1,9 @@
 # Modify this file to make it your own :-)
 
 variable "app_prefix" {
-  default = "viewer"
+  default = "watcher"
 }
 
 variable "pipeline_name" {
-  default = "viewer-demo"
+  default = "watcher-demo"
 }
