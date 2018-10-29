@@ -1,9 +1,9 @@
 # Modify this file to make it your own :-)
 
 variable "app_prefix" {
-  default = "statuscake"
+  default = "viewer"
 }
 
 variable "pipeline_name" {
-  default = "monitoring-demo"
+  default = "viewer-demo"
 }
